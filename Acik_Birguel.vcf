@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Acik;Birgül;;;
+FN:Birgül Acik
+ORG:Vitacordis - Acik
+TITLE:Praxisorganisation
+TEL;TYPE=MAIN,WORK,VOICE:+49 221 9957860
+item1.TEL:+49 221 99578622
+item1.X-ABLabel:Telefonsprechstunde
+TEL;TYPE=WORK,FAX:+49 221 99578611
+EMAIL;TYPE=PREF,INTERNET:info@vitacordis.de
+URL:http://www.vitacordis.de/acik
+item2.URL:https://maps.app.goo.gl/mR691TqipHaQdYyo6
+item2.X-ABLabel:GoogleMaps
+ADR;TYPE=WORK:;;Margaretastr. 8;Köln;;50827;Deutschland
+PHOTO;TYPE=JPEG;VALUE=URI:https://raw.githubusercontent.com/thomas-huybrechts/vcards/main/Acik_Birguel.jpg
+END:VCARD
