@@ -3,8 +3,8 @@ VERSION:3.0
 N:Acik;Birgül;;;
 FN:Birgül Acik
 ORG:Vitacordis - Acik
-TITLE:Vitacordis - Acik
-TEL;TYPE=MAIN,WORK,VOICE:+49 221 9957860
+X-ABShowAs:COMPANY
+TITLE:Assistenzärztin für Allgemeinmedizin
 item1.TEL:+49 221 99578622
 item1.X-ABLabel:Telefonsprechstunde
 TEL;TYPE=WORK,FAX:+49 221 99578611
