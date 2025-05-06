@@ -2,9 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 N:Huybrechts;Thomas;;;
 FN:Thomas Huybrechts
-ORG:Vitacordis - Huybrechts
+X-ABShowAs:COMPANY
 TITLE:Facharzt für Allgemeinmedizin
-TEL;TYPE=WORK,VOICE:+49 221 99578625
 item1.TEL:+49 221 99578625
 item1.X-ABLabel:Telefonsprechstunde
 TEL;TYPE=WORK,FAX:+49 221 99578611
