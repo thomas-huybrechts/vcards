@@ -3,8 +3,8 @@ VERSION:3.0
 N:Masri;Daniel;;Dr.;
 FN:Dr. Daniel Masri
 ORG:Vitacordis - Masri
-TITLE:Facharzt für Allgemeinmedizin
-TEL;TYPE=MAIN,WORK,VOICE:+49 221 9957860
+X-ABShowAs:COMPANY
+TITLE:Assistenzarzt für Allgemeinmedizin
 item1.TEL:+49 221 99578624
 item1.X-ABLabel:Telefonsprechstunde
 TEL;TYPE=WORK,FAX:+49 221 99578611
