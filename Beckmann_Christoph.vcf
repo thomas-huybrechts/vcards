@@ -2,6 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Beckmann;Christoph;;Dr.;
 FN:Dr. Christoph Beckmann
+ORG:Vitacordis - Beckmann
 X-ABShowAs:COMPANY
 TITLE:Facharzt für Allgemeinmedizin
 item1.TEL:+49 221 99578625
